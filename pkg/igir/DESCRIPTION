@@ -1,0 +1,12 @@
+Package: IGIR
+Type: Package
+Title: Integrative network Graphic Engine Interface for R
+Version: 0.1
+Date: 2010-08-23
+Author: Xin Wang, Mauro Castro & Florian Markowetz
+Maintainer: Xin Wang <xin.wang@cancer.org.uk>
+Depends: R, R.oo, R.utils, graph, igraph
+Imports: R.oo, R.utils, graph, igraph
+Description: The Integrative Graphic engine Interface for R (IGIR) aims at bridging existing powerful graphic engines such as Cytoscape and R together to produce and visualize gene networks automatically.
+License: GPL
+LazyLoad: yes
